@@ -1,1 +1,1 @@
-app: bin/hubot -a campfire -n mcbot --enable-slash
+app: bin/hubot -a campfire -n mcbot --alias '/'

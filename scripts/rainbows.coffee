@@ -3,7 +3,7 @@
 # rainbow me
 
 module.exports = (robot) ->
-  robot.respond /rainbow me$/i, (msg) ->
-    message.send "http://i.imgur.com/TD0u7.gif"
+  robot.respond /rainbow me/i, (message) ->
+    message.send "http://lh4.ggpht.com/_NPozZNfhte4/SNWGqW7daFI/AAAAAAAABXk/oeUTSmoCOhw/s800/haha.gif"
 
 
