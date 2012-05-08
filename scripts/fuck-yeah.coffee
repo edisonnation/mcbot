@@ -8,5 +8,5 @@ fuck_yeahs = [
 ]
 
 module.exports = (robot) ->
-  robot.respond /fuck yeah/i (msg) ->
+  robot.respond /fuck yeah/i, (msg) ->
     msg.send msg.random fuck_yeahs
