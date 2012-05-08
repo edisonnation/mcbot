@@ -16,7 +16,7 @@ ackbars = [
   "http://farm5.staticflickr.com/4074/4751546688_5c76b0e308_z.jpg",
   "http://farm6.staticflickr.com/5250/5216539895_09f963f448_z.jpg"
 ]
-
-module.exports = (robot) ->
-  robot.hear /.*(trap).*/i, (msg) ->
-    msg.send msg.random ackbars
+#
+#module.exports = (robot) ->
+#  robot.hear /.*(trap).*/i, (msg) ->
+#    msg.send msg.random ackbars
