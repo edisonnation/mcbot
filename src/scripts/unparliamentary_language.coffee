@@ -32,4 +32,4 @@ module.exports = (robot) ->
 
   regex = new RegExp('(?:^|\\s)(' + words.join('|') + ')(?:\\s|\\.|\\?|!|$)', 'i');
   robot.hear regex, (msg) ->
-    msg.send pardons[0]
+    msg.send msg.random pardons
