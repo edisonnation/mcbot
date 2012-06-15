@@ -24,12 +24,12 @@ module.exports = (robot) ->
     'shit',
     'wank'
   ]
+
+  pardons = [
+    'That is most unparlimentary language.',
+    'Pardon me',
+    'That is unparlimentary language, I must say.']
+
   regex = new RegExp('(?:^|\\s)(' + words.join('|') + ')(?:\\s|\\.|\\?|!|$)', 'i');
-
-
   robot.hear regex, (msg) ->
-    pardons = [
-      'That is most unparlimentary language.',
-      'Pardon me',
-      'That is unparlimentary language, I must say.']
- 		msg.send msg.random pardons
+    msg.send pardons[0]
