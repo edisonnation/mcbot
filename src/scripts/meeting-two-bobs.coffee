@@ -1,7 +1,7 @@
 # display random 'two-bobs' image from office-space
 #
 #
-# meeting - returns random 'two-bobs' image
+# meeeeeting - returns random 'two-bobs' image
 #
 #
 
@@ -13,5 +13,5 @@ two_bobs = [
 ]
 
 module.exports = (robot) ->
-  robot.hear /meeting/i, (msg) ->
+  robot.hear /meee+ting/i, (msg) ->
     msg.send msg.random two_bobs
