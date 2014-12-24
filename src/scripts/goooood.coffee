@@ -4,8 +4,8 @@
 #
 
 darths = [
-  "http://images4.wikia.nocookie.net/__cb20080808031313/starwars/images/thumb/d/d4/Palpycropped.jpg/250px-Palpycropped.jpg",
-  "http://www.vamortgagecenter.com/blog/wp-content/uploads/2011/07/sidious.jpg",
+  "http://images5.fanpop.com/image/photos/25300000/Darth-Sidious-the-emperor-darth-sidious-25396087-1280-544.jpg",
+  "http://cdn.screenrant.com/wp-content/uploads/Emperor-Palpatine-Darth-Sidious-Star-Wars.jpg",
   "http://torwars.com/wp-content/uploads/2011/10/darth-sidious.jpg"
 
 ]
