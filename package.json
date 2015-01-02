@@ -10,6 +10,7 @@
     "hubot-business-cat": "^1.1.10",
     "hubot-diagnostics": "0.0.1",
     "hubot-fliptable": ">= 0.0.0",
+    "hubot-giphy-gifme": ">= 0.1.2",
     "hubot-github-repo-event-notifier": ">= 0.0.0",
     "hubot-google-images": "^0.1.2",
     "hubot-google-translate": "^0.1.0",

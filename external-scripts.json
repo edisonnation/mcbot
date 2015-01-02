@@ -5,6 +5,7 @@
   "hubot-fliptable",
   "hubot-help",
   "hubot-heroku-keepalive",
+  "hubot-giphy-gifme",
   "hubot-github-repo-event-notifier",
   "hubot-google-images",
   "hubot-google-translate",
