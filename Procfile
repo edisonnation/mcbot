@@ -1,1 +1,1 @@
-web: bin/hubot -a campfire -n mcbot
+web: bin/hubot -a campfire -n mcbot --alias / 
