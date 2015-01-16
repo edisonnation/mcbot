@@ -11,7 +11,7 @@
     "hubot-diagnostics": "0.0.1",
     "hubot-fliptable": ">= 0.0.0",
     "hubot-giphy-gifme": ">= 0.1.2",
-    "hubot-github-repo-event-notifier": ">= 0.0.0",
+    "hubot-github-repo-event-notifier": "git://github.com/edisonnation/hubot-github-repo-event-notifier.git#master",
     "hubot-google-images": "^0.1.2",
     "hubot-google-translate": "^0.1.0",
     "hubot-help": "^0.1.1",
