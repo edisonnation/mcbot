@@ -1,1 +1,1 @@
-web: bin/hubot -a slack -n mcbot --alias / 
+web: bin/hubot -a slack -n mcbot --alias oldmcbot
